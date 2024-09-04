@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Tushar Sangwan, student at Thapar University.<br>Passionate about coding and web development.<br>Focused on mastering data structures and algorithms in C and C++.<br>Experience as a data analyst and C++ programming intern.
 
 
@@ -13,6 +13,5 @@ Tushar Sangwan, student at Thapar University.<br>Passionate about coding and web
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackhawkup&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Blackhawkup&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
