@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am open to work on projects.<br>Feel free to dm :)
 
 
