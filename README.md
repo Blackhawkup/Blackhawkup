@@ -1,7 +1,3 @@
-# About Me:
-I am open to work on projects.<br>Feel free to dm :)
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-sangwan-4a5of/) 
 
